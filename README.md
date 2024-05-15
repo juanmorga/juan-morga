@@ -2,7 +2,7 @@
 
 Meu nome é Juan Morgado 
 
-- Estou estudando no alura ^_^:)😍
+- Estou estudando no [alura](https://www.alura.com.br) 
 
 - Estou me desenvolvendo na linguagem JavaScript
 -
