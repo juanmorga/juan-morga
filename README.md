@@ -1,1 +1,13 @@
-# juan-morga
+## Boas vindas ao meu perfil
+
+Meu nome é Juan Morgado 
+
+- Estou estudando no alura ^_^:)😍
+
+- Estou me desenvolvendo na linguagem JavaScript
+-
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvi
+
+   __Você pode entrar em contato comigo 📫__
+juanribeiro945@gmail.com
+  
